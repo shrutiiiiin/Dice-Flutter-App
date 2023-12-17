@@ -1,12 +1,12 @@
 # dice_flutter
 
-A new Flutter project.
+A Flutter project made using state widget and dart language.
 
-## Getting Started
+## Introduction
+This a simple Dice game app made using flutter concepts.
+You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
